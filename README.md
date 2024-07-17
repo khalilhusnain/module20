@@ -66,3 +66,6 @@ For this module challenge, you’ll need to deploy this application to [Netlify]
 1. Clone the repository:  
    ```bash
    git clone https://github.com/khalilhusnain/module20.git
+
+## Deployment
+[React_Portfolio](https://glowing-sundae-5c8b79.netlify.app/)
